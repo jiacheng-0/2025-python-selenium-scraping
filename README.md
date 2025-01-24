@@ -2,6 +2,19 @@
 
 This repository contains a Dockerized Python application for web scraping using Selenium. The project is designed to be easily set up and run in a Docker container, ensuring a consistent environment across different systems.
 
+## Screenshots
+
+### Target website to scrap
+
+![[Pasted image 20250124191048.png]]
+### Building the image
+
+![[Pasted image 20250124190631.png]]
+
+### Running the image
+
+![[Pasted image 20250124190913.png]]
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:

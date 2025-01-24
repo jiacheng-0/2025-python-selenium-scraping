@@ -6,15 +6,14 @@ This repository contains a Dockerized Python application for web scraping using 
 
 ### Target website to scrap
 
-![[Pasted image 20250124191048.png]]
-### Building the image
+![Target Website](images/Pasted%20image%2020250124191048.png)
+## Building the Image
 
-![[Pasted image 20250124190631.png]]
+![Building the Image](images/Pasted%20image%2020250124190631.png)
 
-### Running the image
+## Running the Image
 
-![[Pasted image 20250124190913.png]]
-
+![Running the Image](images/Pasted%20image%2020250124190913.png)
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
